@@ -1,0 +1,6 @@
+#slide{width:617px;height:284px}
+.slidesjs-container{width:100%!important;height:100%!important}
+.slidesjs-pagination{display:none;position:relative;z-index:1000;top:-40px}
+.slidesjs-pagination .slidesjs-pagination-item{display:inline-block;padding:0 5px}
+.slidesjs-pagination .slidesjs-pagination-item a{color:#000!important}
+.slidesjs-pagination .slidesjs-pagination-item .active{background:transparent!important;font-weight:700;text-decoration:underline}

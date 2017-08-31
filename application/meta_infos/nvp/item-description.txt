@@ -1,0 +1,1 @@
+This #{ITEM} is brand new and designed to fit #{MODEL_TYPE} and has been manufactured to the highest standards from our suppliers of Insurance approved crash repair parts, which is #{CERTIFICATE} certified.

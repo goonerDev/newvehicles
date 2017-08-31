@@ -1,0 +1,49 @@
+h1{margin:0}
+
+.navbar{margin-bottom:0}
+
+.search-result-pattern{font-weight:700}
+.required-field-marker{color:#f00}
+.center-aligned{text-align:center}
+.no-background{background:transparent}
+.no-border{border:none}
+.list-unstyled{list-style:none}
+
+#wrapper{margin:0;padding:0}
+
+#topmost{background:#27a;padding:5px}
+#login{float:right}
+#cart{float:right}
+#cart-total{font:700 1.1em arial}
+
+#header{height:100px; background:#ddd}
+
+#search{background:#27a;padding:5px; width:100%}
+#search #simple-search{float:right; width:50%}
+#search #search-by-vrm{float:left; width:50%}
+
+#search #simple-search .twitter-typeahead{width:100%}
+#search #simple-search .tt-dropdown-menu{background:#fff;width:100%;box-shadow:0 5px 10px #aaa;border-radius:0 0 5px 5px}
+#search #simple-search .tt-dataset-0{}
+#search #simple-search .tt-suggestions{}
+#search #simple-search .tt-suggestion{padding:0 0 0 10px}
+#search #simple-search .tt-suggestion:hover{background:#aaa;}
+#search #simple-search .tt-suggestion p{margin:0;padding:3px 0}
+
+#content-wrapper{display:table; width:100%}
+
+#manufacture{display:table-cell; vertical-align:top; width:200px}
+#manufacture ul{margin:0; padding:0 0 0 20px}
+#manufacture li{list-style:none; margin:0; padding:2px 0}
+
+#central{display:table-cell; vertical-align:top}
+
+#models-list ul, #start-year-list ul{margin:0; padding:0}
+#models-list li, #start-year-list li{list-style:none; margin:0; padding:2px 0; width:200px}
+
+#footer{height:150px;background:#ddd}
+#footer-links{height:200px; background:#27a}
+#footer-links a{color:#fff}
+
+#product-details ul{margin:0; padding:0}
+#product-details li{list-style-type:none; margin:0; padding:10px 0}

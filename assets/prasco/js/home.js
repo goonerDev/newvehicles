@@ -1,0 +1,12 @@
+jQuery(document).ready(function($){
+	$('#slide').slidesjs({
+		width:617,
+		height:284,
+		play:{
+			active:true,
+			auto:true,
+			interval:5000,
+			swap:true
+		}
+	})
+})

@@ -1,0 +1,121 @@
+body{margin:4px 0 0 0;padding:0}
+h1,h2,h3,h4,h5,h6{margin:0!important;padding:0!important}
+ul{list-style:none;margin:0;padding:0}
+li{margin:0;padding:0}
+input.number{text-align:right;padding-right:5px}
+iframe{width:0;height:0}
+
+h1.title{margin-bottom:30px!important;padding:0!important}
+
+#top-wrapper{background:url(../image/backgrounds/header.jpg) -380px 0  no-repeat!important}
+#top-fixed-wrapper{width:970px;margin:0 auto}
+#top-nav{background:url(../image/backgrounds/account-bar.png) no-repeat;font:12px arial;width:690px;height:59px}
+
+#content-wrapper{min-height:600px;background:#fff}
+#content-fixed-wrapper{width:945px;margin:0 auto}
+
+#catalog-bottomest-top-wrapper{background:none;height:210px!important}
+#free-search-wrapper{width:970px;margin:0 auto;height:73px}
+
+#home-bottomest-top-wrapper{height:319px!important}
+#home-bottomest-top-wrapper .jumbotron{width:970px!important;background:transparent;color:#fff;margin:0 auto;padding-bottom:0}
+#home-bottomest-top-wrapper .jumbotron h1{font-size:24px;font-weight:700;text-align:center}
+#home-bottomest-top-wrapper .jumbotron p.content{font-size:12px}
+
+#nav-social-media-wrapper{color:#fff;line-height:32px;padding:0 0 0 55px}
+#nav-social-media-wrapper ul li{float:left;padding:0 5px;line-height:30px}
+#nav-menu-wrapper ul{padding:0 0 0 55px}
+#nav-menu-wrapper ul li{float:left;padding:0 15px;line-height:30px}
+#nav-menu-wrapper ul li a{color:#2b2b2b}
+
+#cart-bottomest-top-wrapper{height:72px!important}
+#cart{margin-left:135px}
+#cart .fa-shopping-cart{font-size:1.5em;color:#ed9c28}
+#cart-total{margin-left:30px;line-height:30px;color:#2b2b2b}
+
+#banner-wrapper{margin-top:85px}
+#banner{margin:0 auto;padding:0;width:970px;list-style:none}
+#banner img{width:100%;height:400px}
+
+#quick-search-wrapper{background:url(../image/backgrounds/quick-search.png) no-repeat!important;width:958px!important;min-height:191px;margin:25px auto 0 auto}
+#quick-search-wrapper #find-parts{background:url(../image/button-orange-active.png)}
+#quick-search-header{text-align:center;font-size:1em;font-weight:700;margin-top:20px!important}
+#quick-search-form{margin:55px 0 0 20px}
+#quick-search-form input[type=submit]{font-weight:700}
+.padding-0077{margin:0 7px}
+label{padding:0!important}
+
+/** Ad found between Quick search component and list of items in catalog screen **/
+#vat-inclusif-ad{border:dashed 1px #c2c2c2;width:100%;height:121px;border-radius:5px}
+#vat-inclusif-ad-img-wrapper{border-left:dashed 1px #c2c2c2;float:right;margin-right:50px;padding-left:0;max-width:640px;height:100%}
+
+#vat-inclusif-ad,#product-detail-wrapper{margin:90px 0 0 0}
+
+#refine-search-wrapper{width:195px;float:left;margin:20px 10px 0 0}
+#refine-search-wrapper h2{margin:0;padding:20px 23px!important;background:#3f3f3f;border-radius:5px 5px 0 0;color:#fff;font-size:16px;font-weight:700}
+#refine-search-wrapper ul{background:#3f3f3f;border-bottom:5px solid #303030;border-radius:0 0 5px 5px}
+#refine-search-wrapper li{background:transparent}
+#refine-search-wrapper li.active{background:#303030}
+#refine-search-wrapper li a{display:block;padding:11px 23px;border-top:solid 1px #535353;border-bottom:solid 1px #303030;color:#fff}
+
+/** list of items **/
+#product-list-wrapper{width:740px;float:right}
+#product-list-wrapper h2{margin:20px 0 0 20px!important;padding:0!important;font-size:16px;font-weight:700}
+#product-list-cols-wrapper{list-style:none;clear:both;margin:0;padding:0}
+#product-list-cols-wrapper li{float:left;width:226px;margin:10px 0 20px 20px;}
+#product-list-cols-wrapper li .img-wrapper{height:150px}
+#product-list-cols-wrapper li .thumbnail{width:100%;max-height:145px}
+#product-list-cols-wrapper li .item-name-wrapper{height:40px}
+#product-list-cols-wrapper li .view-item{padding-left:22px;padding-right:22px}
+#product-list-cols-wrapper li .add-to-cart{padding-left:22px;padding-right:23px;background:url(../image/button-grey-active.png);color:#fff}
+#product-list-cols-wrapper li .add-to-cart:hover{background:url(../image/button-grey.png)}
+
+#product-detail-wrapper h1{font-size:18px;margin:0 0 15px 0!important;padding:0 0 15px 0!important;border-bottom:solid 1px #d4d4d4}
+#product-detail-wrapper #vehic-fit-product a{color:#d98f07}
+#product-detail-wrapper #vehic-fit-product a:hover{color:#00a8ef}
+#product-detail-wrapper #price-box{background: none repeat scroll 0% 0% #F5F5F5;border-radius: 5px;box-shadow: 0px 7px 6px #C2C2C2;border: 1px solid #C2C2C2;padding: 30px;text-align:right}
+#product-detail-wrapper #price-box #price{font-size:18px;font-weight:700}
+#product-detail-wrapper #price-box #recommendation{font-size:11px;font-weight:700}
+#product-detail-wrapper #price-box #precision{font-size:9px;}
+
+#product-detail-wrapper h2{font-size:14px;margin:0 0 15px 0!important;text-align:right}
+.in-stock-level,.add-to-cart{background:url(../image/button-green.png);color:#fff}
+.out-stock-level{background:url(../image/button-orange-active.png);color:#fff}
+
+#checkout-wrapper{margin:20px 0!important}
+#checkout-wrapper h1.section-header{padding:.5em .5em .5em .7em!important}
+#cart-chekout-form{font:.9em arial;clear:both}
+#cart-chekout-form h2{font:700 1.2em arial;margin:15px 0!important}
+#cart-chekout-form .ui-state-default{background:#333!important}
+#cart-chekout-form .btn{background:url(../image/button-grey-active.png);color:#fff}
+#cart-chekout-form .btn-wrapper{margin-top:20px}
+#cart-chekout-form .product-name{color:#d98f07}
+
+#bottom{height:150px;margin-top:50px;background:url(../image/backgrounds/footer.png)}
+
+
+.price{font-weight:700;font-size:16px}
+.centered{text-align:center}
+.pagination-wrapper{clear:both}
+.form-control{font-size:.9em!important}
+.numeric-align{text-align:right;padding-right:5px}
+.table-header{padding:5px 0;background:#f0f0f0}
+.table-row-wrapper{border-right:solid 1px #ddd;border-left:solid 1px #ddd}
+.table-row{padding:5px 0;border-bottom:solid 1px #ddd}
+.clear{clear:both}
+.form-group{margin-bottom:7px}
+
+/************************************************************************************************/
+
+@media (max-width:1000px) {
+#quick-search-wrapper{background:none!important;width:100%!important}
+#home-bottomest-top-wrapper .jumbotron{display:none}
+#quick-search-form{margin:25px 0 0 0}
+#banner{display:none}
+}
+
+@media (max-width:690px){
+#toppest-nav{background:none!important}
+#catalog-bottomest-top-wrapper{height:0!important}
+.padding-0077{margin:0}
+}
